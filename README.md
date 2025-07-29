@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello!%20&section=header&fontColor=FFFFFF)
 
-<p style="center"> 👋 Let's Get to Know Each Other! </p>
+<h2 align="center"> 👋 Let's Get to Know Each Other! </h2>
+
+<a href="https://www.linkedin.com/in/adiba-zalfa-camilla/">
+  <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNpCKq8tZcAAJM-UMa5Q6_PwvE4U_jFQV3Zg&s"/>
+</a>
 
 ```yaml
 * YOUR TEXT GOES HERE *
