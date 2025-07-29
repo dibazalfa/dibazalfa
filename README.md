@@ -1,9 +1,6 @@
-## Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello!%20&section=header&fontColor=FFFFFF)
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-</a>
+<p style="center"> 👋 Let's Get to Know Each Other! </p>
 
 ```yaml
 * YOUR TEXT GOES HERE *
