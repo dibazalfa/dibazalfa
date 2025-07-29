@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20&textBg=false)
 
 <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20&textBg=false"/>
 </a>
 
 ```yaml
