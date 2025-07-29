@@ -3,7 +3,8 @@
 <h2 align="center"> 👋 Let's Get to Know Each Other! </h2>
 
 <a align="center" href="https://www.linkedin.com/in/adiba-zalfa-camilla/">
-  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/576dd04a-b235-4f1b-b8c5-2e3c8ac39d72" />
+  <img height="50" alt="linkedin" src="https://github.com/user-attachments/assets/576dd04a-b235-4f1b-b8c5-2e3c8ac39d72" />
+  <p>Adiba Zalfa Camilla</p>
 </a>
 
 ```yaml
