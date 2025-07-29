@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello!%20&section=header&fontColor=FFFFFF)
 
 <a href="https://www.instagram.com/thepiyushmalhotra/">
 </a>
