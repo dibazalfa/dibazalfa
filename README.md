@@ -19,7 +19,7 @@
 </p>
 
 
-Explore Who I Am! 👉🏻
+Explore Who I Am! Click the LinkedIn 👉🏻
 <p align="center">
   <a href="https://www.linkedin.com/in/adiba-zalfa-camilla/" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
 <!--     <img src="https://github.com/user-attachments/assets/576dd04a-b235-4f1b-b8c5-2e3c8ac39d72" alt="LinkedIn" height="50" /> -->
@@ -32,7 +32,7 @@ Explore Who I Am! 👉🏻
 
 ```yaml
 name: Adiba Zalfa Camilla
-located_in: Semarang, Surabaya
+located_in: Semarang, Indonesia
 current_status: Fresh Graduate
 education:
   [
