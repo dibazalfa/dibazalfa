@@ -19,12 +19,15 @@
 </p>
 
 
-Explore Who I Am! Click the LinkedIn 👉🏻
+Explore Who I Am! Click the LinkedIn and My Portofolio 👉🏻
 <p align="center">
   <a href="https://www.linkedin.com/in/adiba-zalfa-camilla/" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
 <!--     <img src="https://github.com/user-attachments/assets/576dd04a-b235-4f1b-b8c5-2e3c8ac39d72" alt="LinkedIn" height="50" /> -->
 <!--     <img height="200" alt="image" src="https://github.com/user-attachments/assets/32e68914-6556-45d2-bc00-83dacfb35db6" /> -->
-  <img height="100" alt="image" src="https://github.com/user-attachments/assets/e6085ef1-3f0f-4df9-8232-931814448a22" />
+  <img height="100" alt="linkedin" src="https://github.com/user-attachments/assets/e6085ef1-3f0f-4df9-8232-931814448a22" />
+  </a>
+  <a href="https://www.canva.com/design/DAGIwUmd32E/k1b-pZBb_2CwygFdMQ3T4g/view?utm_content=DAGIwUmd32E&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img height="100" alt="portofoio" src="https://cdn0.iconfinder.com/data/icons/startup-and-new-business-14/32/startup_business_portofolio_work_document-512.png" />
   </a>
 </p>
 
